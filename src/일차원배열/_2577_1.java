@@ -23,5 +23,6 @@ public class _2577_1 {
 		for(int result : arr) {
 			System.out.println(result);
 		}
+		
 	}
 }
